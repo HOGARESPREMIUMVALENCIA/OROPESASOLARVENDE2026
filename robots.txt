@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /recorrido-3d/
+Sitemap: https://solar-vinaroz-oropesa.vercel.app/sitemap.xml
